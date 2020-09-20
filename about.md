@@ -5,12 +5,10 @@ description: An optional about page for Scriptor Jekyll theme
 feature_image: images/about.jpg
 ---
 
-**John Doe** is a Senior Art Director from [Vilnius](https://en.wikipedia.org/wiki/Vilnius), Lithuania. After graduating from The College of Visual Arts with a degree in Communication Design, he worked for three small graphic design shops where he honed his design style and sensibility.
+**Todo Company** is the only modern, digital provider of data from the Nordic alcohol monopolies. We empower suppliers to make smart business decisions based on both historic and near live data.
 
-His work has been recognized by Communication Arts, Print, How, ID, IdN, AIGA, Effie, Archive, Graphis, AdFed and Rockport. Graphic Design USA named him a person to watch in 2015.
+<a href="https://bolaget-site.netlify.app/" target="_blank">Find out more about us here.</a>
 
->The world always seems brighter when you’ve just made something that wasn’t there before. <cite>Neil Gaiman</cite>
+In **this blog** we explore that data and discover a few interesting things on the way. That means we're going to look at some **real data** and come to some **real conclusions**. Some of those will be directly actionable business insights. Some will just be fun bits of trivia. We're a fan of both.
 
-As a hobby, John Doe authors the most influential design blog in Lithuania with over 100,000 page views a month. He lives in Vilnius with his beautiful wife, two boys and one girl.
-
-*Thank You for reading!*
+*Thank you for reading!*

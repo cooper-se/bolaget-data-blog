@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Scriptor"
+title: "Todo Company Data Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Scriptor is a minimal, clean, modern & responsive Jekyll theme for writers"
+description: "Todo Company is the only modern, digital provider of data from the Nordic alcohol monopolies. In this blog we explore that data and discover a few interesting things on the way."
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -21,7 +21,7 @@ baseurl: ""
 url: "https://scriptor-jekyll.netlify.com"
 
 # Favicon
-favicon: images/favicon.png
+favicon: images/favicon.ico
 
 # Google Analytics id, e.g. "UA-NNNNNNNN-N"
 google_analytics: ""
@@ -32,23 +32,21 @@ navigation:
     url: /
   - text: About
     url: /about/
-  - text: Style Guide
-    url: /style-guide/
   - text: Tags
     url: /tags/
-  - text: Download
-    url: https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme
+  - text: Main Site ↗
+    url: https://bolaget-site.netlify.app/
 
 # The shortname for your Disqus site to enable comments.
-disqus: justgoodthemes
+disqus: bolaget-data-blog
 
 # Colors
-accent_color: '#2d72d9'
+accent_color: 'DarkSlateBlue'
 
 # Site footer
 footer:
-  content: "&copy; Scriptor all rights reserved. Theme by [JustGoodThemes](https://www.justgoodthemes.com)."
-  has_social: true
+  content: "&copy; Copyright ©2020 Todo Company."
+  has_social: false
 
 # Plugins
 plugins:
