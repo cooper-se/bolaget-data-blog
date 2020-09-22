@@ -34,6 +34,8 @@ navigation:
     url: /about/
   - text: Tags
     url: /tags/
+  - text: App ↗
+    url: http://bolaget.netlify.app/
   - text: Main Site ↗
     url: https://bolaget-site.netlify.app/
 
