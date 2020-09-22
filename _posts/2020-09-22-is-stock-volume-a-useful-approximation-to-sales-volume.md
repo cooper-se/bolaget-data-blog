@@ -7,7 +7,7 @@ feature_image: images/salestext.jpg
 tags: []
 ---
 
-Systembolaget releases in detail sales figures only once a year.
+Systembolaget releases in detail sales figures infrequently.
 However, they release stock level data on an almost daily basis. The stock data also includes a huge amount of geographic data than the sales figures lack.
 
 Having an up-to-date and geographically detailed view of sales would help producers a lot. **Can stock levels be a useful approximation for this?**
