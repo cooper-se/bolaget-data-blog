@@ -13,12 +13,14 @@ But what about importers? Is the typical importer a specialist or a generalist? 
 
 <!--more-->
 
-First, let's analyse some Producer data in the 2019 Annual Sales Report to confirm our assumptions about Producers.
+First, let's analyse some Producer data in the 2019 Annual Sales Report to confirm our assumptions about Producers. I'm not going to walk through any calculations in this article, but I'm going to show graphs that showcase the wider trends I'm talking about.
 
 {% include image_caption.html imageurl="/images/the-current-state-of-suppliers-and-importers/Producer-volume-graphs.jpg" title="2019 Producer Volume Data" caption="2019 Producer volume data" %} 
 
 The first three graphs show the largest producers in three different areas. All differ. The final (in the bottom right) shows how all the volume is spread across all producers. The first 10 producers make up 25% of the sales and 80% of the supply is from about only 5% of the producers. Although, this is a pretty typical thing to see in this kind of data.
 
-Let's continue to the importers.
+No what about importers? I'm going to show slightly more up to date data, and use the value of stock in stores, rather than sales volume as a measure of size. These are different, but they should work for this purpose. Again here are some graphs that illustrate what I'm seeing more generally.
 
-> TODO
+{% include image_caption.html imageurl="/images/the-current-state-of-suppliers-and-importers/Importer-volume-graphs.jpg" title="2019 Importer Volume Data" caption="2020 Importer volume data" %}
+
+So the answer to the question I started with is that it's again a market of specialists. Things are pretty similar. In fact significant stock volumes come from both importers who are also producers, as well as just plain importers. I would speculate that even for non-producer-importers experience, familiarity and contacts in a certain market segment is still worth a lot.
