@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "What's Systembolaget's Number One Stock Item?"
-description: "tododod"
+description: ""
 date: 2020-09-21
 feature_image: images/systemetbag.jpg 
-tags: []
+tags: ["assortment"]
 ---
 
 It's time for some trivia. Here are some interesting things we've found out in our travels through Systembolaget's data.

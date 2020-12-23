@@ -9,10 +9,10 @@
 lang: en-US
 
 # Site title
-title: "Todo Company Data Blog"
+title: "Nordic Alcohol Data Blog"
 
 # A description of your site for meta tag, search engine results.
-description: "Todo Company is the only modern, digital provider of data from the Nordic alcohol monopolies. In this blog we explore that data and discover a few interesting things on the way."
+description: ""
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""
@@ -47,7 +47,7 @@ accent_color: 'DarkSlateBlue'
 
 # Site footer
 footer:
-  content: "&copy; Copyright ©2020 Todo Company."
+  content: "&copy; Copyright ©2020 Nordic Alcohol Data Project."
   has_social: false
 
 # Plugins

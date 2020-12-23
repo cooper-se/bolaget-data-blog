@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Is stock volume a useful approximation to sales volume?"
+title: "Is stock volume a useful approximation to sales volume? [TODO]"
 description: ""
 date: 2020-09-22
 feature_image: images/salestext.jpg 
-tags: []
+tags: ["stock"]
 ---
 
 Systembolaget releases in detail sales figures infrequently.

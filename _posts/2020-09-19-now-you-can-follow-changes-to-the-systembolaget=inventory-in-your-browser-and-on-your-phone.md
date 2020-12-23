@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Now you can follow changes to the Systembolaget inventory in your browser and on your phone"
-description: "Todo some description"
+description: ""
 date: 2020-09-20
 feature_image: images/app.jpg 
-tags: []
+tags: ["app"]
 ---
 
 A key part of our product offering is that we offer "near-real-time" data. We do this so our API customers can react quickly to the things that are important to them.

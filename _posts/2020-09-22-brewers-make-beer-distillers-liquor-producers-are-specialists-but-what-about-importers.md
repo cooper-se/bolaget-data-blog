@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Brewers make beer. Distillers liquor... Producers are specialists, but what about importers?"
-description: "This is a description for this todo todo."
+description: ""
 date: 2020-09-22
 feature_image: images/belinda-fewings-2Gx8qmygwqg-unsplash.jpg 
-tags: []
+tags: ["importers"]
 ---
 
 The typical producer is a highly specialized organization. Systembolaget lists thousands of Producers and of course only a small minority provide the majority of the sales volume. But who they are varies significantly depending on which category and which price bands one is looking at. That makes sense, I'm not expecting Carlsberg to be supplying expensive whisky any time soon and I haven't heard anything about Glenmorangie's plans for a mass market lager.

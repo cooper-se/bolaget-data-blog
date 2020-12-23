@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Does high stock volatility suggest high sales?"
-description: "tododod"
+title: "Does high stock volatility suggest high sales? [TODO]"
+description: ""
 date: 2020-09-23
 feature_image: images/stockgraph.jpg 
-tags: []
+tags: ["stock"]
 ---
 
 Systembolaget releases in detail sales figures infrequently.

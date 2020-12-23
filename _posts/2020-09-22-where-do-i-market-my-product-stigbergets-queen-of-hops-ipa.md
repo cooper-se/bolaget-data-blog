@@ -4,7 +4,7 @@ title: "Where do I market my product? Stigbergets Queen of Hops IPA"
 description: ""
 date: 2020-09-22
 feature_image: images/mapgraphgoteborg.jpg 
-tags: []
+tags: ["geodata"]
 ---
 
 Let's take a first step towards data based marketing by looking at basic geographical data.
