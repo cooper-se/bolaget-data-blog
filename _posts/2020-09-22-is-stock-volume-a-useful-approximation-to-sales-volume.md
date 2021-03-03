@@ -13,6 +13,7 @@ However, they release stock level data on an almost daily basis. The stock data 
 
 Having an up-to-date and geographically detailed view of sales would help producers a lot. **Can stock levels be a useful approximation for this?**
 
+<!--more-->
 
 ### What are we comparing and how?
 
