@@ -9,9 +9,9 @@ tags: ["geodata"]
 
 Let's take a first step towards data based marketing by looking at basic geographical data.
 
-<!--more-->
-
 Where is the product at? Where is it on shelves? Marketing is a complex domain, and a lot of other things can inform our decision making, but I don't think we're ever going to get completely away from that simple question. Luckily, it's easily answered by our up-to-date stock data.
+
+<!--more-->
 
 **So where is Stigbergets Queen of Hops IPA on shelves?** The answer in this case is mostly in Göteborg, a bit in Falun and Sundsvall, and scatterings elsewhere. You can see the Göteborg part in this article's feature image.
 
