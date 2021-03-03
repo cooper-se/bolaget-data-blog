@@ -1,6 +1,7 @@
 # Bolaget Data Blog
 
 https://bolaget-data-blog.netlify.app/
+https://blog.alcoholmarketdata.se/
 
 Based on [Scriptor](https://github.com/JustGoodThemes/Scriptor-Jekyll-Theme) theme.
 

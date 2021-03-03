@@ -37,7 +37,7 @@ navigation:
   - text: App ↗
     url: http://bolaget.netlify.app/
   - text: Main Site ↗
-    url: https://bolaget-site.netlify.app/
+    url: https://alcoholmarketdata.se/
 
 # The shortname for your Disqus site to enable comments.
 disqus: bolaget-data-blog
