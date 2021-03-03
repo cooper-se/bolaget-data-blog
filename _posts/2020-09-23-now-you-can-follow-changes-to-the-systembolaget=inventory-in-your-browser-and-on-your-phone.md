@@ -2,7 +2,7 @@
 layout: post
 title: "Now you can follow changes to the Systembolaget inventory in your browser and on your phone"
 description: ""
-date: 2020-09-20
+date: 2020-09-23
 feature_image: images/app.jpg 
 tags: ["app"]
 ---
